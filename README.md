@@ -1,20 +1,20 @@
-﻿🧩 Azure Visio Stencil Builder
+🧩 Azure Visio Stencil Builder
 
-A lightweight C# utility that converts Azure SVG icons into categorized Visio stencil files (.vssx) — complete with proper scaling, labels, and organization.
+A lightweight engineering utility written in C# that converts Azure SVG icons into categorized Microsoft Visio stencil files (.vssx). The tool is intended to help engineers and architects create consistent, reusable architecture diagrams using standard Visio editions.
 
-It helps teams quickly generate stencils that look and behave like the official Microsoft Azure icon sets.
+The project focuses on documentation enablement and workflow efficiency, allowing teams to generate Visio-native stencils that align with official Azure icon conventions without relying on premium tooling.
 
-✨ Features
+✨ Key Capabilities
 
-📂 Automatic categorization — creates one stencil per folder (e.g., AI, Compute, Storage).
+Automatic categorization — generates one stencil per folder (e.g., AI, Compute, Storage) to keep diagrams organized and easy to maintain.
 
-🖼️ SVG import — imports vector icons directly into Visio.
+SVG import support — imports vector-based Azure icons directly into Visio using COM interop.
 
-📏 Consistent sizing — normalizes master dimensions for a clean look.
+Consistent sizing — normalizes master dimensions to ensure clean, uniform diagrams.
 
-🏷️ Text labels — adds readable icon names below each shape.
+Readable labels — adds standardized text labels beneath each shape for clarity.
 
-🧱 Visio-native output — generates .vssx stencil files compatible with Visio 2016+.
+Visio-native output — produces .vssx stencil files compatible with Visio 2016 and later.
 
 🛠️ Prerequisites
 
