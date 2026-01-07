@@ -2,7 +2,7 @@
 
 A lightweight engineering utility written in C# that converts Azure SVG icons into categorized Microsoft Visio stencil files (.vssx). The tool is intended to help engineers and architects create consistent, reusable architecture diagrams using standard Visio editions.
 
-The project focuses on documentation enablement and workflow efficiency, allowing teams to generate Visio-native stencils that align with official Azure icon conventions without relying on premium tooling.
+The project focuses on documentation enablement and workflow efficiency, allowing teams to generate Visio-native stencils that align with official Azure icon conventions while remaining compatible with standard Visio editions.
 
 ✨ Key Capabilities
 
