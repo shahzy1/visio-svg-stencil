@@ -76,10 +76,10 @@ Works great for internal design documentation or architecture diagrams.
 
 📄 License
 
-This project is licensed under the MIT License — feel free to use and modify it.
+This project is licensed under the MIT License — free to use, modify, and distribute.
 
 👨‍💻 Author
 
 Shahzad Khan
-Senior Azure Developer | Cloud & AI Engineer
+Azure Solutions Engineer | Cloud Platform & Integration
 🔗 shahzadblog.com
